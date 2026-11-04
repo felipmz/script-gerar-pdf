@@ -1,0 +1,12 @@
+{
+  "titulo": "Relatório de exemplo",
+  "itens": [
+    {"tipo": "h1", "texto": "Relatório de exemplo"},
+    {"tipo": "h2", "texto": "Seção 1"},
+    {"tipo": "p", "texto": "Parágrafo de texto simples."},
+    {"tipo": "li", "nivel": 1, "texto": "Item de lista de primeiro nível."},
+    {"tipo": "li", "nivel": 2, "texto": "Item de lista de segundo nível."},
+    {"tipo": "h2", "texto": "Seção 2"},
+    {"tipo": "li", "nivel": 1, "texto": "Outro item. Acentuação funciona: ação, coração, “aspas”."}
+  ]
+}
